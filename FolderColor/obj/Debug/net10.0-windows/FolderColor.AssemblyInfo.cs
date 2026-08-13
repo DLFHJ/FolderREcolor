@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FolderColor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+996b5ef135a436458cc25559ffe31043a72d2055")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1164369943e4bee0e3b5cc0ee35c63c99fd170fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("FolderColor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FolderColor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

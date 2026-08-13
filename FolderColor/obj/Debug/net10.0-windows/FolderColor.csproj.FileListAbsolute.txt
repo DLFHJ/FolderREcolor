@@ -34,4 +34,3 @@ D:\Projects\fcc\FolderREcolor\FolderColor\obj\Debug\net10.0-windows\FolderColor.
 D:\Projects\fcc\FolderREcolor\FolderColor\obj\Debug\net10.0-windows\ref\FolderColor.dll
 D:\Projects\fcc\FolderREcolor\FolderColor\obj\Debug\net10.0-windows\FolderColor.sourcelink.json
 D:\Projects\fcc\FolderREcolor\FolderColor\bin\Debug\net10.0-windows\icons\app.ico
-D:\Projects\fcc\FolderREcolor\FolderColor\bin\Debug\net10.0-windows\icons\app.png
