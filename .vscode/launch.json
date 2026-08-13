@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Apply blue to test folder",
+      "type": "coreclr",
+      "request": "launch",
+      "program": "${workspaceFolder}/FolderColor/bin/Debug/net10.0-windows/FolderColor.dll",
+      "args": ["red", "C:\\Temp\\ColorTest"],
+      "cwd": "${workspaceFolder}/FolderColor",
+      "console": "integratedTerminal",
+      "stopAtEntry": false
+    },
+    {
+      "name": "Clear test folder",
+      "type": "coreclr",
+      "request": "launch",
+      "program": "${workspaceFolder}/FolderColor/bin/Debug/net10.0-windows/FolderColor.dll",
+      "args": ["--clear", "C:\\Temp\\ColorTest"],
+      "cwd": "${workspaceFolder}/FolderColor",
+      "console": "integratedTerminal",
+      "stopAtEntry": false
+    }
+  ]
+}

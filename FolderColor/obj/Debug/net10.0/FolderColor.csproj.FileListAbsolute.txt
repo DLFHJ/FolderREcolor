@@ -1,0 +1,14 @@
+d:\Projects\fcc\FolderColor\bin\Debug\net10.0\FolderColor.exe
+d:\Projects\fcc\FolderColor\bin\Debug\net10.0\FolderColor.deps.json
+d:\Projects\fcc\FolderColor\bin\Debug\net10.0\FolderColor.runtimeconfig.json
+d:\Projects\fcc\FolderColor\bin\Debug\net10.0\FolderColor.dll
+d:\Projects\fcc\FolderColor\bin\Debug\net10.0\FolderColor.pdb
+d:\Projects\fcc\FolderColor\obj\Debug\net10.0\FolderColor.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projects\fcc\FolderColor\obj\Debug\net10.0\FolderColor.AssemblyInfoInputs.cache
+d:\Projects\fcc\FolderColor\obj\Debug\net10.0\FolderColor.AssemblyInfo.cs
+d:\Projects\fcc\FolderColor\obj\Debug\net10.0\FolderColor.csproj.CoreCompileInputs.cache
+d:\Projects\fcc\FolderColor\obj\Debug\net10.0\FolderColor.dll
+d:\Projects\fcc\FolderColor\obj\Debug\net10.0\refint\FolderColor.dll
+d:\Projects\fcc\FolderColor\obj\Debug\net10.0\FolderColor.pdb
+d:\Projects\fcc\FolderColor\obj\Debug\net10.0\FolderColor.genruntimeconfig.cache
+d:\Projects\fcc\FolderColor\obj\Debug\net10.0\ref\FolderColor.dll

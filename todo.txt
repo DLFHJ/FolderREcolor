@@ -1,0 +1,9 @@
+- go back to default color
+- fix flashing of console
+- add colors
+- move icons to %LOCALAPPDATA%\FolderColor\icons\
+- OutputType to WinExe
+- tighten the csproj glob to *.ico
+- add the remaining colours.
+-----
+- option to add custom "colors" i.e ico files
