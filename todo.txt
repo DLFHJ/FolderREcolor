@@ -1,5 +1,5 @@
-- go back to default color
-- fix flashing of console
+DONE - go back to default color
+DONE - fix flashing of console
 - add colors
 - move icons to %LOCALAPPDATA%\FolderColor\icons\
 - OutputType to WinExe
