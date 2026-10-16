@@ -1,4 +1,4 @@
-# FolderREcolor a
+# FolderREcolor
 
 A project I am working on that allows for quick and easy change of folder icon colors. Currently WIP.
 
